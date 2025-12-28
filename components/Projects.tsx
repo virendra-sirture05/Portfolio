@@ -19,7 +19,7 @@ const projectsData = [
       "Zod"
     ],
     githubRepo: "https://github.com/virendra-sirture05/PDF-Glow",
-    video: "/generate.mp4",
+    video: "/pdfglow.mp4",
     projectID: 1,
   },
   {
@@ -35,9 +35,9 @@ const projectsData = [
       "Redux toolkit",
       "Tailwind css",
     ],
-    githubRepo: "",
+    githubRepo: "https://github.com/virendra-sirture05/SwipeForDevelopers",
     projectID: 2,
-    video: "/peetcode.mp4",
+    video: "/devswipe1.mp4",
   },
   {
     name: "ByteBlog",
@@ -53,7 +53,7 @@ const projectsData = [
       "Zod"
     ],
     githubRepo: "https://github.com/virendra-sirture05/ByteBlog",
-    video: "/generate.mp4",
+    video: "/byte-blog.mp4",
     projectID: 3,
   },
 ];

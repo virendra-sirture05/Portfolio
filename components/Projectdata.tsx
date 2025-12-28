@@ -34,7 +34,7 @@ const Projectdata = ({ projectObj }: { projectObj: ProjectObj }) => {
   return (
     <Card className="p-0 bg-[#0f0f0f] hover:bg-[#1e1e1e] cursor-pointer transition">
       <CardHeader>
-        {/* <ReactPlayer  controls width={300} height={300} url={projectObj.video} /> */}
+        <ReactPlayer  controls width={300} height={300} src={projectObj.video} />
       </CardHeader>
       <CardContent>
         <p className="font-bold text-xl">{projectObj.name}</p>
